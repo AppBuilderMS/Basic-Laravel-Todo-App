@@ -3,4 +3,4 @@
 
 ## About Todo-App
 
-Basic simple laravel todo app contain add, edit, recomplete and delete todos.
+Basic laravel todo app contain add, edit, recomplete and delete todos.
